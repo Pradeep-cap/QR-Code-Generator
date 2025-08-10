@@ -59,8 +59,3 @@ Allow users to customize QR code colors
 
 Enable QR code generation from uploaded files or images
 
-👤 Author
-Pradeep NM
-Backend Developer & Frontend Enthusiast
-
-If you want, I can add the download QR code feature in your React app and then update the README with that functionality so it looks more professional for GitHub and portfolio.
