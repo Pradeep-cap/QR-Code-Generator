@@ -25,26 +25,22 @@ react-qr-code – QR code rendering library
 Clone the repository:
 
 bash
-Copy
-Edit
+
 git clone https://github.com/your-username/qr-code-generator.git
 Navigate to the project folder:
 
 bash
-Copy
-Edit
+
 cd qr-code-generator
 Install dependencies:
 
 bash
-Copy
-Edit
+
 npm install
 Run the development server:
 
 bash
-Copy
-Edit
+
 npm start
 📄 Usage
 Enter text or a URL in the input field.
